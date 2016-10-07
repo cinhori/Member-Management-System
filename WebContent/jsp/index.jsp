@@ -47,7 +47,7 @@ function exit(){
   <tr>
     <td><div align="center"><a href="jsp/updateRegister.jsp">修改注册信息</a></div></td>
     <td><div align="center"><a href="jsp/updatePwd.jsp">修改密码</a></div></td>
-    <td><div align="center"><input type="button" onclick="window.close()" value="退出"> </div></td>
+    <td><div align="center"><a href="exit" >退出</a> </div></td>
     <td><div align="center"><a href="jsp/index.jsp">返回主页</a></div></td>
   </tr>
   <tr>
